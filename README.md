@@ -1,1 +1,1 @@
-# xai-samples
+# xai-examples
