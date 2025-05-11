@@ -7,3 +7,6 @@ jupyter
 shap
 xgboost
 scikit-learn
+seaborn
+folium
+basemap
